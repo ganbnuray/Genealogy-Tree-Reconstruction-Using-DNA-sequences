@@ -1,4 +1,4 @@
-# Gene Genealogy Tree Construction using Longest Common Subsequence (LCS)
+# Gene Genealogy Tree Construction Using Longest Common Subsequence (LCS)
 
 This project implements the **Longest Common Subsequence (LCS)** algorithm and applies it to construct **gene genealogy trees** using both **local** and **global** approaches.
 

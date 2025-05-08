@@ -32,10 +32,10 @@ Genetic sequences are analyzed to infer evolutionary relationships. The project 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/ganbnuray/Genealogy-Tree-Reconstruction-Using-DNA-sequences.git
 2. Install required packages (if not already available):
    ```bash
    pip install matplotlib numpy
 3. Open the notebook:
    ```bash
-   jupyter notebook Project\ 2\ -\ Final\ Computational\ Application.ipynb
+   jupyter notebook genetreereconstruction.ipynb

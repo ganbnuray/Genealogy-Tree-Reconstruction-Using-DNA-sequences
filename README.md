@@ -1,6 +1,6 @@
 # Gene Genealogy Tree Construction using Longest Common Subsequence (LCS)
 
-This project implements the **Longest Common Subsequence (LCS)** algorithm and applies it to construct **gene genealogy trees** using both **local** and **global** approaches. It was developed as a final computational application project.
+This project implements the **Longest Common Subsequence (LCS)** algorithm and applies it to construct **gene genealogy trees** using both **local** and **global** approaches.
 
 ## 🧬 Project Overview
 
@@ -12,6 +12,7 @@ Genetic sequences are analyzed to infer evolutionary relationships. The project 
 - **Local Approach**: Constructs genealogy trees using pairwise similarity and a bottom-up strategy.
 - **Global Approach**: Constructs trees using a global similarity matrix and dynamic programming techniques.
 - **Visualization**: Displays hierarchical trees and similarity matrices for interpretation.
+- **Probability Calculation**: Calculates the probabilities of insertion, deletion, and mutation in gene sequences using the edit distance algorithm.
 
 ## 📌 Features
 
